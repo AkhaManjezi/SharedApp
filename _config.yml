@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Sʜᴀʀᴇᴆ
-show_downloads: "false"
+description: Open Music and Podcasts where you want
+logo: /Images/Logo.png
+show_downloads: false
