@@ -1,7 +1,4 @@
-![Image](/Images/image1.png)
-![Image](/Images/image2.png)
-![Image](/Images/image3.png)
-![Image](/Images/image4.png)
+![Image](/Images/AppPanorama.png)
 
 ## Supported Services
 ### Music
