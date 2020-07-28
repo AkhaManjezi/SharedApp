@@ -16,4 +16,7 @@
 - Overcast
 - Spotify
 
+### App Support
+Send support queries to [sharedapp.feedback@gmail.com](mailto:sharedapp.feedback@gmail.com?subject=Sʜᴀʀᴇᴆ%20Support).
+
 Available on the iOS App Store
